@@ -34,7 +34,7 @@ Capturas de pantalla
 
 Cómo ejecutar el proyecto
 1.	Clona este repositorio o descarga el ZIP.
-2.	git clone https://github.com/tuusuario/amigo-secreto.git
+2.	git clone https://github.com/Jimmy0320/Amigo-Secreto.git
 3.	Abre el archivo index.html en tu navegador favorito.
 4.	¡Empieza a jugar agregando nombres y sorteando tu amigo secreto!
 
